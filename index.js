@@ -84,14 +84,6 @@ function disableOnlyCheckbox(){
 	})
 })
 
-
-
-
-
-
-
-
-
 ///////////////////////////////////////////////////////////////////////
 function getUpperCase() {
     const uppercase = "QWERTYUIOPÅASDFGHJKLÖÄZXCVBNM";
@@ -113,15 +105,6 @@ function getSymbol() {
     return symbols[Math.floor(Math.random() * symbols.length)];  
 }
 /////////////////////////////////////////////////////////////
-
-
-/////////////////////////////////////////////////////
-
-
-// const generatePassword = () =>{
-//     let staticPassword = "";
-// }
-
 
 
 passLength = lengthSlider.value;
